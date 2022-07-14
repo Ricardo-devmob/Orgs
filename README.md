@@ -1,4 +1,4 @@
-# Orgs
+# Orgs (Aplicativo para organização de listas)
 
 Código para desenvolvimento de App Android feito durante a Formação Android com Kotlin da Alura
 
